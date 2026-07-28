@@ -14,9 +14,9 @@ Final-year CSE (AI & ML) student building end-to-end apps with Java, Spring Boot
 # 🚀 A Few Things I've Built
 | Project | What it does |
 |---|---|
-| [Hospital Management System]([https://github.com/ashishmerit](https://github.com/ashishmerit/Hospital-Management-System)) | Full-stack app with JWT auth, role-based access, and REST APIs across Spring Boot, Hibernate & React |
+| [Hospital Management System](https://github.com/ashishmerit](https://github.com/ashishmerit/Hospital-Management-System)) | Full-stack app with JWT auth, role-based access, and REST APIs across Spring Boot, Hibernate & React |
 | [Sentiment Analyzer](https://github.com/ashishmerit) | Spring Boot service wrapping the HuggingFace API, batch-processed 500+ reviews at 100% success rate |
-| [Credit Card Fraud Detection]([https://github.com/ashishmerit](https://github.com/ashishmerit/Card-Not-Presesnt-Fraud-Detection)) | SVM classifier for imbalanced transaction data, 0.91 precision-recall AUC |
+| [Credit Card Fraud Detection](https://github.com/ashishmerit](https://github.com/ashishmerit/Card-Not-Presesnt-Fraud-Detection)) | SVM classifier for imbalanced transaction data, 0.91 precision-recall AUC |
 | [Customer Churn Prediction](https://github.com/ashishmerit) | Random Forest / SVM pipeline identifying high-risk churn customers |
 
 # 💻 Tech Stack:
