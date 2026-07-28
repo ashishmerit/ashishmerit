@@ -1,30 +1,23 @@
-![MasterHead](dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashish+Ranjan!;Software+Engineer+%7C+ML+Engineer;Java+Full-Stack+%7C+AI%2FML" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Hi%2C+I'm+Ashish+%F0%9F%91%8B;Java+Full-Stack+Developer;ML%2FAI+Enthusiast" />
 </h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<p align="center">
+Final-year CSE (AI & ML) student building end-to-end apps with Java, Spring Boot & React — and training models on the side. Open to <b>Software Engineer</b> and <b>Machine Learning Engineer</b> roles.
+</p>
 
-# 💫 About Me:
-🎓 Final-year CSE (AI & ML) student at VIT Bhopal University (CGPA: 8.86/10)<br>
-🔭 I'm currently building full-stack applications with Java, Spring Boot, React & MySQL<br>
-🧠 I'm exploring Machine Learning — from classification & regression to model deployment<br>
-👯 I'm looking to collaborate on Java Full-Stack and Machine Learning projects<br>
-🌱 I'm currently strengthening my skills in Cloud Computing and Deep Learning<br>
-💼 Currently open to **Software Engineer** and **Machine Learning Engineer** roles<br>
-⚡ Fun fact: I once got a fraud-detection model to hit 0.91 precision-recall AUC on wildly imbalanced data
+# 🛠️ Currently
+- Building full-stack systems with **Spring Boot, Spring Security & React**
+- Training and tuning ML models with **Scikit-learn**, most recently a fraud detector that hit **0.91 precision-recall AUC**
+- Wrapping up a Software Development & AI/ML traineeship at **MPOnline Limited**, Bhopal
 
-# 🛠️ Experience
-**Software Development & AI/ML Trainee** @ MPOnline Limited, Bhopal — *May 2026 – Jul 2026*
-- Built 3+ full-stack applications integrating responsive frontends with relational databases
-- Applied SQL/PL-SQL (CRUD, joins, stored procedures, triggers) for efficient data management
-- Built end-to-end ML workflows using NumPy, Pandas, Matplotlib, Scikit-learn & Pickle
-
-# 🚀 Featured Projects
-- **[Hospital Management System](https://github.com/ashishmerit)** — Full-stack app with JWT-based auth, role-based access (Admin/Doctor/Receptionist/Patient), and RESTful APIs built with Spring Boot, Spring Security, Hibernate & React
-- **[Sentiment Analyzer](https://github.com/ashishmerit)** — Spring Boot REST API integrating the HuggingFace Inference API, with resilient batch processing (100% success rate across 500+ payloads) and JUnit 5 test coverage
-- **[Credit Card Fraud Detection](https://github.com/ashishmerit)** — Real-time SVM-based fraud classifier on imbalanced data, achieving 0.91 precision-recall AUC with GridSearchCV tuning
-- **[Customer Churn Prediction Pipeline](https://github.com/ashishmerit)** — End-to-end churn prediction using Decision Tree, Random Forest & SVM with feature selection and cross-validated evaluation
+# 🚀 A Few Things I've Built
+| Project | What it does |
+|---|---|
+| [Hospital Management System](https://github.com/ashishmerit) | Full-stack app with JWT auth, role-based access, and REST APIs across Spring Boot, Hibernate & React |
+| [Sentiment Analyzer](https://github.com/ashishmerit) | Spring Boot service wrapping the HuggingFace API, batch-processed 500+ reviews at 100% success rate |
+| [Credit Card Fraud Detection](https://github.com/ashishmerit) | SVM classifier for imbalanced transaction data, 0.91 precision-recall AUC |
+| [Customer Churn Prediction](https://github.com/ashishmerit) | Random Forest / SVM pipeline identifying high-risk churn customers |
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
@@ -36,10 +29,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 # 📜 Certifications
-- 🎓 Machine Learning with Python — University of Michigan (Dec 2025)
-- ☁️ NPTEL — Cloud Computing (Elite Grade) (Jun 2025)
-- 📡 NPTEL — Internet of Things, Score: 90 (Jun 2026)
-- 📊 Deloitte Australia — Data Analytics Job Simulation (Jul 2025)
+Machine Learning with Python (UMich) · Cloud Computing — NPTEL Elite · Internet of Things — NPTEL · Data Analytics Job Simulation — Deloitte Australia
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashishmerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
