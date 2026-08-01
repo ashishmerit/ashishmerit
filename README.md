@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Hi%2C+I'm+Ashish+%F0%9F%91%8B;Java+Full-Stack+Developer;ML%2FAI+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&duration=3000&lines=Hi%2C+I'm+Ashish+%F0%9F%91%8B;Java+Full-Stack+Developer;DSA+Enthusiast;ML%2FAI+Enthusiast" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@ Final-year CSE (AI & ML) student building end-to-end apps with Java, Spring Boot
 | Project | What it does |
 |---|---|
 | [Hospital Management Platform](https://github.com/ashishmerit/Hospital-Management-System)| Full-stack app with JWT auth, role-based access, and REST APIs across Spring Boot, Hibernate & React |
-| [Sentiment Analyzer](https://github.com/ashishmerit) | Spring Boot service wrapping the HuggingFace API, batch-processed 500+ reviews at 100% success rate |
+| [Library Management System](https://github.com/ashishmerit/LibraryManagementSystem) | A full-stack Library Management System built using ASP.NET Core MVC and SQL Serve |
 | [Credit Card Fraud Detection Model](https://github.com/ashishmerit/Card-Not-Presesnt-Fraud-Detection) | SVM classifier for imbalanced transaction data, 0.91 precision-recall AUC |
 | [Customer Churn Prediction](https://github.com/ashishmerit) | Random Forest / SVM pipeline identifying high-risk churn customers |
 
