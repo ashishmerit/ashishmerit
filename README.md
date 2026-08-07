@@ -17,7 +17,7 @@ Final-year CSE (AI & ML) student building end-to-end apps with Java, Spring Boot
 | [Hospital Management Platform](https://github.com/ashishmerit/Hospital-Management-System)| Full-stack app with JWT auth, role-based access, and REST APIs across Spring Boot, Hibernate & React |
 | [Library Management System](https://github.com/ashishmerit/LibraryManagementSystem) | A full-stack Library Management System built using ASP.NET Core MVC and SQL Serve |
 | [Credit Card Fraud Detection Model](https://github.com/ashishmerit/Card-Not-Presesnt-Fraud-Detection) | SVM classifier for imbalanced transaction data, 0.91 precision-recall AUC |
-| [Customer Churn Prediction](https://github.com/ashishmerit) | Random Forest / SVM pipeline identifying high-risk churn customers |
+| [SmartRetailAI](https://github.com/ashishmerit/SmartRetailAI) |An AI-powered smart retail system that combines Computer Vision, Machine Learning and FastAPI to provide intelligent customer interaction inside a retail environment |
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
