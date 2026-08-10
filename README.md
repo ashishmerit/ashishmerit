@@ -8,8 +8,9 @@ Final-year CSE (AI & ML) student building end-to-end apps with Java, Spring Boot
 
 # 🛠️ Currently
 - Building full-stack systems with **Spring Boot, Spring Security & React**
-- Training and tuning ML models with **Scikit-learn**, most recently a fraud detector that hit **0.91 precision-recall AUC**
-- Wrapping up a Software Development & AI/ML traineeship at **MPOnline Limited**, Bhopal
+- Building SmartRetailAI — an AI-powered retail system combining Computer Vision, ML, Generative AI & FastAPI
+- I’m looking for help with Java full stack applications and building and deploying production-ready AI applications
+- Fun fact: I like turning ML models into real, usable applications — not just notebooks.
 
 # 🚀 A Few Things I've Built
 | Project | What it does |
@@ -29,7 +30,7 @@ Final-year CSE (AI & ML) student building end-to-end apps with Java, Spring Boot
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 # 📜 Certifications
-Machine Learning with Python (UMich) · Cloud Computing — NPTEL Elite · Internet of Things — NPTEL · Data Analytics Job Simulation — Deloitte Australia
+Machine Learning with Python (UMich) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashishmerit&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
