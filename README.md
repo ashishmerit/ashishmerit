@@ -17,9 +17,7 @@ Final-year CSE (AI & ML) student building end-to-end apps with Java, Spring Boot
 |---|---|
 | [SmartRetailAI](https://github.com/ashishmerit/SmartRetailAI) |An AI-powered smart retail system that combines Computer Vision, Machine Learning and FastAPI to provide intelligent customer interaction inside a retail environment|
 | [Sentiment Analyzer AI](https://github.com/ashishmerit/Sentiment_Analyzer_AI) | A full-stack sentiment analysis platform for analyzing customer reviews, classifying sentiment as Positive, Negative, or Neutral, persisting predictions in MySQL, and processing large CSV datasets through a reliable batch pipeline. |
-| [Hospital Management Platform](https://github.com/ashishmerit/Hospital-Management-System)| Full-stack app with JWT auth, role-based access, and REST APIs across Spring Boot, Hibernate & React |
-| [Library Management System](https://github.com/ashishmerit/LibraryManagementSystem) | A full-stack Library Management System built using ASP.NET Core MVC and SQL Serve |
-
+| [DocuQuery — Hybrid RAG Pipeline with Reranking](https://github.com/ashishmerit/DocuQuery-Hybrid-RAG-Pipeline)| FDocuQuery is a full-stack document question-answering application being built to demonstrate a practical Retrieval-Augmented Generation (RAG) pipeline. 
 
 
 # 💻 Tech Stack:
