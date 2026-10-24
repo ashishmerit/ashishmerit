@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Final-year CSE (AI & ML) student building end-to-end apps with Java, Spring Boot & React — and training models on the side. Open to <b>Software Engineer</b> and <b>Machine Learning Engineer</b> roles.
+Final-year CSE (AI & ML) student building end-to-end apps with Java/Python, Spring Boot/FastApi & React — and training models on the side. Open to <b>Software Engineer</b> and <b>Machine Learning Engineer</b> roles.
 </p>
 
 # 🛠️ Currently
